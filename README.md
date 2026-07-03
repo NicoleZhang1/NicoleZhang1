@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Nicole</h1>
-<p>A passionate frontend developer from Brampton, Canada!</p>
+<p>I am a passionate frontend developer from Brampton, Canada! With a sharp eye for design and a passion for clean, efficient code, I specialize in creating seamless web applications and interactive interfaces. Whether I'm creating responsive websites, optimizing performance, or researching the latest frontend technologies, I'm committed to providing high-quality solutions that exceed expectations. Explore my repositories to view some of my projects, and please contact me if you want to collaborate or have any queries. Let us work together to create something extraordinary!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
